@@ -1,7 +1,8 @@
 # Carrefour_products_recognition
 
-### Download data to colab
+This project is a try to do carrefour products photos recognition using pre-trained ResNeXt50 Model on google colab.
 
+### Download data from google drive to colab
 ```
 from google.colab import drive
 drive.mount('./gdrive')
